@@ -1,0 +1,9 @@
+{
+	"name": "deadfff",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "48d724cd-c2b6-45a3-b430-885c1a6e9e91",
+		"tenantId": "ee43ffaf-5609-4eb1-9c97-3664ecb818a4"
+	}
+}
